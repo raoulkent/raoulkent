@@ -1,16 +1,19 @@
-## Hi there 👋
-
+### About Me
+🕵️‍♂️: I'm a passionate developer with a knack for building cool stuff using mostly JavaScript and Go!
 <!--
-**raoulkent/raoulkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+:fire: I'm on fire creating these projects! (List your projects with short descriptions and links to the repos)
+:thinking: Thinking about trying these? (List some project ideas you're working on or would love to collaborate on)
+--->
 
-Here are some ideas to get you started:
+## Tech Stack
+⚡: Node.js
+🐁: Golang
+🛠️: Terraform
+🧰: CI/CD
+🤝: Building awesome integrations between all sorts of things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+:email: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raoul-kent-26232653/)
+
+![Project Image](https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png)
