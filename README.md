@@ -1,5 +1,5 @@
 ### About Me
-🕵️‍♂️: I'm a passionate developer with a knack for building cool stuff using mostly JavaScript and Go!
+🕵️‍♂️: I'm a passionate developer with a knack for building stuff using a keyboard, mostly in JavaScript and Go!
 <!--
 ## Projects
 :fire: I'm on fire creating these projects! (List your projects with short descriptions and links to the repos)
