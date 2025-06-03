@@ -5,6 +5,3 @@
 :fire: I'm on fire creating these projects! (List your projects with short descriptions and links to the repos)
 :thinking: Thinking about trying these? (List some project ideas you're working on or would love to collaborate on)
 --->
-
-### Get in Touch
-:email: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raoul-kent-26232653/)
